@@ -1,0 +1,360 @@
+@media only screen and (min-width:1300px) {
+
+    body{
+        width: 25%;
+    }
+    
+    img{
+        width: 75%;
+        margin-left: 12%;
+    }
+}
+
+@media only screen and (min-width:900px) and (max-width:1034px){
+
+    body{
+        width: 35%;
+    }
+    
+    img{
+        width: 70%;
+        margin-left: 15%;
+    }
+    span{
+        margin-left: 10%;
+    }
+
+    #scan{
+        margin-left: -15%;
+    }
+    #mentor{
+        margin-left: -15%;
+    }
+    #level{
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (min-width:854px) and (max-width:899px){
+    body{
+        width: 35%;
+    }
+
+    img{
+        width: 70%;
+        margin-left: 15%;
+    }
+
+}
+
+@media only screen and (min-width:652px) and (max-width:853px){
+    body{
+        width: 45%;
+    }
+
+    img{
+        margin-left: 8%;
+    }
+    
+
+}
+@media only screen and (min-width:601px) and (max-width:650px){
+
+    body{
+        width: 55%;
+    }
+    
+    img{
+        width: 90%;
+        margin-left: 5%;
+    }
+}
+
+@media only screen and (min-width:500px) and (max-width: 600px) {
+    body{
+        width: 90%;
+    }
+    
+    span{
+        margin-left: 20%;
+    }
+
+    img{
+        width: 60%;
+        margin-left: 20%;
+    }
+    
+    #scan{
+        margin-left: 5em;
+    }
+    #mentor{
+        margin-left: 20%;
+    }
+
+    #level{
+        margin-left: 45%;
+    }
+}
+@media only screen and (min-width:375px) and (max-width:500px) {
+    body{
+        width: 80%;
+    }
+    
+    #span2{
+        margin-left: 5%;
+    }
+}
+
+
+
+@media only screen and (max-width:200px) and (min-width:180px) {
+    body{
+        width: 90%;
+        height: 60%;
+    }
+    
+    
+    span{
+        font-size: 65%;
+        margin-left: 10%;
+
+    }
+
+    #skills{
+        font-size: 90%;
+    }
+
+    img{
+        width: 100px;
+        height: 100px;
+    }
+
+    #scan{
+        font-size: 55%;
+        margin-left: 0;
+    }
+
+    #mentor{
+        font-size: 55%;
+        margin-left: -5%;
+    }
+
+    #level{
+        font-size: 55%;
+        margin-left: 35%;
+    }
+}
+
+@media only screen and (max-width:100px) and (min-width:50px) {
+    body{
+        width: 90%;
+        height: 60%;
+    }
+    
+    
+    span{
+        font-size: 45%;
+        margin-left: 10%;
+
+    }
+
+    #skills{
+        font-size: 90%;
+    }
+
+    img{
+        width: 80%;
+        height: 35%;
+        margin-left: 10%;
+        }
+
+    #scan{
+        font-size: 35%;
+        margin-left: -5%;
+    }
+
+    #mentor{
+        font-size: 35%;
+        margin-left: -10%;
+    }
+
+    #level{
+        font-size: 35%;
+        margin-left: 25%;
+    }
+}
+
+@media only screen and (max-width:374px) and (min-width:360px) {
+    body{
+        width: 40%;
+        height: 60%;
+    }
+    
+    
+    span{
+        font-size: 65%;
+        margin-left: 10%;
+
+    }
+
+    #skills{
+        font-size: 90%;
+    }
+
+    img{
+        width: 100px;
+        height: 100px;
+    }
+
+    #scan{
+        font-size: 55%;
+        margin-left: -20%;
+    }
+
+    #mentor{
+        font-size: 55%;
+        margin-left: -20%;
+    }
+
+    #level{
+        font-size: 55%;
+        margin-left: 15%;
+    }
+}
+
+@media only screen and (min-width:201px) and (max-width:360px) {
+    body{
+        width: 80%;
+        height: 60%;
+    }
+    
+    
+    span{
+        font-size: 65%;
+        margin-left: 10%;
+
+    }
+
+    #skills{
+        font-size: 90%;
+    }
+
+    img{
+        width: 70%;
+        height: 40%;
+    }
+
+    #scan{
+        font-size: 55%;
+        margin-left: 0;
+    }
+
+    #mentor{
+        font-size: 55%;
+        margin-left: -5%;
+    }
+
+    #level{
+        font-size: 55%;
+        margin-left: 35%;
+    }
+} 
+
+
+@media only screen and (min-width:164px) and (max-width:179px){
+    body{
+        width: 80%;
+        height: 60%;
+    }
+    
+    
+    span{
+        font-size: 65%;
+        margin-left: 10%;
+
+    }
+
+    #skills{
+        font-size: 90%;
+        margin-left: 10%;
+    }
+
+    img{
+        width: 90%;
+        height: 40%;
+        margin-left: 5%;
+    }
+
+    #scan{
+        font-size: 45%;
+        margin-left: 0;
+    }
+
+    #mentor{
+        font-size: 45%;
+        margin-left: -5%;
+    }
+
+    #level{
+        font-size: 45%;
+        margin-left: 35%;
+    }
+} 
+
+@media only screen and (min-width:101px) and (max-width:164px){
+    body{
+        width: 90%;
+        height: 60%;
+    }
+
+    img{
+        width: 80%;
+        height: 40%;
+        margin-left: 10%;
+    }
+
+    span{
+        font-size: 45%;
+        margin-left: 5%;
+    }
+
+    #scan{
+        font-size: 35%;
+        margin-left: 0;
+    }
+
+    #mentor{
+        font-size: 35%;
+        margin-left: 0;
+    }
+
+    #level{
+        font-size: 35%;
+        margin-left: 30%;
+    }
+}
+
+
+@media only screen and (min-width:240px) and (max-width:360px){
+    body{
+        width: 50%;
+    }
+
+    span{
+        margin-left: 10%;
+    }
+
+    #scan{
+        margin-left: -15%;
+    }
+
+    #mentor{
+        margin-left: -18%;
+    }
+
+    #level{
+        margin-left: 15%;
+    }
+}
+
+
